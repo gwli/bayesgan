@@ -1,0 +1,27 @@
+tch 99770: train=0.000000 test=0.000000
+batch 99780: train=0.000000 test=0.000000
+batch 99790: train=0.000000 test=0.000000
+batch 99800: train=0.000000 test=0.000000
+batch 99810: train=0.000000 test=0.000000
+batch 99820: train=0.000000 test=0.000000
+batch 99830: train=0.000000 test=0.000000
+batch 99840: train=0.000000 test=0.000000
+batch 99850: train=0.000000 test=0.000000
+batch 99860: train=0.000000 test=0.000000
+batch 99870: train=0.000000 test=0.000000
+batch 99880: train=0.000000 test=0.000000
+batch 99890: train=1.000000 test=0.000000
+batch 99900: train=0.000000 test=0.000000
+batch 99910: train=0.000000 test=0.000000
+batch 99920: train=0.000000 test=0.000000
+batch 99930: train=0.000000 test=0.000000
+batch 99940: train=0.000000 test=0.000000
+batch 99950: train=0.000000 test=0.000000
+batch 99960: train=0.000000 test=0.000000
+batch 99970: train=0.000000 test=0.000000
+batch 99980: train=0.000000 test=0.000000
+batch 99990: train=0.000000 test=0.000000
+Evaluating...
+Train accuracy: 0
+Test accuracy: 0
+
